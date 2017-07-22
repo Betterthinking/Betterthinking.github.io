@@ -4,14 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Project 1](https://github.com/tux4kids/tuxmania) 
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### [Tickets searching tools](https://github.com/Betterthinking/tickets-search-script-on-12306) 
+This is a simple command line utility under windows OS to search train tickets information within a month.
 
 ***
 
-### [Project 2](https://github.com/AkshayAgarwal007/Moodly)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### [Color demosaicing](https://github.com/Betterthinking/Homogeneity-Based-Demosaicing)
+This is a project based on Hirakawa et al's algorithm, which is designed to reconstruct a downsampled RGB figure after bayer filter to obtain the original look.
 
 ***
