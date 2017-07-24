@@ -12,7 +12,7 @@ My name is Li Yuxi, an ordinary college student from SJTU. I'm glad to share som
 
 ## Skills
 
-* **Programming** - `C` / `C++` / `CUDA C` / `Python`/ `Java` / `Matlab`
+* **Programming** - `C` / `C++` / `CUDA C` / `Python` / `Java` / `Matlab` / `Labview`
 * **HDL** - `Verilog` / `VHDL` 
 * **Calligraph** 
     
